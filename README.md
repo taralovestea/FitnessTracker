@@ -14,3 +14,5 @@
 ## THEN you see a dashboard with VISUAL GRAPHS of your workouts 
 
 ![2020-04-13 13 18 23](https://user-images.githubusercontent.com/59029999/79147268-4e8bd580-7d89-11ea-92a1-260b8b092049.gif)
+
+[Created by Tara Hughes ](https://taralovestea.github.io/taralovestea)
